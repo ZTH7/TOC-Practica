@@ -1,0 +1,23 @@
+# Log file
+*.log
+
+# Package Files #
+*.zip
+*.tar.gz
+*.rar
+
+.settings/
+
+bin/
+
+*.cache/
+
+*.hw/
+
+*.ip_user_files/
+
+*.sim/
+
+*.runs/
+
+!*.runs/impl_1/*.bit
