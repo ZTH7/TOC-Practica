@@ -20,4 +20,12 @@ bin/
 
 *.runs/
 
+*.gen/
+
 !*.runs/impl_1/*.bit
+
+*.log
+
+*.coe
+
+*.jou
